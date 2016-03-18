@@ -1,5 +1,5 @@
 # Programming for Scientists (PfS/P4S)
-## Summer2016 - Georgia State University
+## Summer2016 @ Georgia State University
 
 This repository contains _mostly_ original materials (in **Python**, **R**, and **bash** primarily) used in the 2016 version of the Programming for Scientists (P4S) class at Georgia State University (GSU). The course is (was?) taught by [Matthew Turner](https://github.com/mdtdev) for the Psychology department.
 
